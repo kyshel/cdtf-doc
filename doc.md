@@ -15,3 +15,5 @@
 2.[安装Windows Server 2008 R2](http://v.youku.com/v_show/id_XMTcwNTQ0MDI4OA==.html)  
 3.安装SQL Server 2008R2  
 4.安装SiteServer 4.0 
+
+###[关于学院官网](add.html)  
