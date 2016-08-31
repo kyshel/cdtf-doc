@@ -6,10 +6,10 @@
 - 系统：Windows Server 2008 R2 （自带web服务器与.net）
 - 数据库：SQL Server 2008 R2 
 - 组件：.net Framework 4.0
-- CMS安装包：SiteServer 4.0  
+- CMS安装包：[SiteServer 4.0](http://211.87.148.243/t/siteserver_install4.0.zip)
 - 浏览器：360极速浏览器  
 
->[下载 虚拟机、系统、数据库、CMS](http://pan.baidu.com/s/1b35yeq)  
+>[下载 虚拟机、系统、数据库](http://pan.baidu.com/s/1b35yeq)  
 >[下载 .net Framework 4.0](https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe)  
 >[下载 360极速浏览器](http://down.360safe.com/cse/360cse_8.5.0.144.exe)  
 
