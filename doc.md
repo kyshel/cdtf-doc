@@ -18,7 +18,7 @@
 ###安装步骤
 1.安装vm11  
 2.[安装Windows Server 2008 R2](http://v.youku.com/v_show/id_XMTcwNTQ0MDI4OA==.html)  
-3.安装SQL Server 2008R2  
-4.安装SiteServer 4.0 
+3.[安装SQL Server 2008R2](http://v.youku.com/v_show/id_XMTcwNzE2MzgyNA==.html)
+4.[安装SiteServer 4.0](http://v.youku.com/v_show/id_XMTcwNzM2NTgyMA==.html)
 
 ###[关于学院官网](add.html)  
