@@ -8,6 +8,7 @@
 - 组件：.net Framework 4.0
 - CMS安装包：[SiteServer 4.0](http://211.87.148.243/t/siteserver_install4.0.zip)
 - 浏览器：360极速浏览器  
+- 压缩：[7-zip](http://www.7-zip.org/a/7z1602-x64.exe)
 
 >[下载 虚拟机、系统、数据库](http://pan.baidu.com/s/1b35yeq)  
 >[下载 .net Framework 4.0](https://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe)  
