@@ -3,7 +3,7 @@
 
 ###所需软件
 - 虚拟机：vm11 
-- 系统：Windows Server 2008 R2 （自带web服务器与.net）
+- 系统：Windows Server 2008 R2 （自带web服务器）
 - 数据库：SQL Server 2008 R2 
 - 组件：.net Framework 4.0
 - CMS安装包：[SiteServer 4.0](http://211.87.148.243/t/siteserver_install4.0.zip)
