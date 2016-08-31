@@ -21,4 +21,9 @@
 3.[安装SQL Server 2008R2](http://v.youku.com/v_show/id_XMTcwNzE2MzgyNA==.html)  
 4.[安装SiteServer 4.0](http://v.youku.com/v_show/id_XMTcwNzM2NTgyMA==.html)  
 
+###恢复步骤]
+1.获取备份文件(Ex：[160715_backup.zip(只能用校网下载，不耗流量！)](ftp://211.87.150.86/ftp_video/video/_back/160715_backup.zip))
+2.恢复
+
+
 ###[关于学院官网](add.html)  
