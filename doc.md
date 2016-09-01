@@ -23,7 +23,7 @@
 
 ###恢复步骤
 1.获取备份文件 [160715backup.zip-只能用校网下载，不耗流量](ftp://211.87.150.86/ftp_video/video/_back/160715_backup.zip)  
-2.恢复
+2.[恢复](http://v.youku.com/v_show/id_XMTcwNzk5NjU4OA==.html)
 
 
 ###[关于学院官网](add.html)  
