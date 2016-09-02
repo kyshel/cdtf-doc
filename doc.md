@@ -17,13 +17,13 @@
 
 ###安装步骤
 1.安装vm11  
-2.[安装Windows Server 2008 R2](http://v.youku.com/v_show/id_XMTcwNTQ0MDI4OA==.html)  
-3.[安装SQL Server 2008R2](http://v.youku.com/v_show/id_XMTcwNzE2MzgyNA==.html)  
-4.[安装SiteServer 4.0](http://v.youku.com/v_show/id_XMTcwNzM2NTgyMA==.html)  
+2.[安装Windows Server 2008 R2](http://v.youku.com/v_show/id_XMTcwNTQ0MDI4OA==.html?beta&f=28062999&from=y1.7-3)  
+3.[安装SQL Server 2008R2](http://v.youku.com/v_show/id_XMTcwNzE2MzgyNA==.html?beta&&f=28062999&from=y1.2-3.4.2)  
+4.[安装SiteServer 4.0](http://v.youku.com/v_show/id_XMTcwNzM2NTgyMA==.html?beta&&f=28062999&from=y1.2-3.4.3)  
 
 ###恢复步骤
 1.获取备份文件 [160715backup.zip-只能用校网下载，不耗流量](ftp://211.87.150.86/ftp_video/video/_back/160715_backup.zip)  
-2.[进行恢复](http://v.youku.com/v_show/id_XMTcwNzk5NjU4OA==.html)
+2.[利用备份文件进行恢复](http://v.youku.com/v_show/id_XMTcwNzk5NjU4OA==.html?beta&&f=28062999&from=y1.2-3.4.4)
 
 
 ###[关于学院官网](add.html)  
